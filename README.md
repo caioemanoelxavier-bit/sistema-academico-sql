@@ -230,11 +230,7 @@ erDiagram
 - Seção 6 — Visão de BI / IA
 - Seção 7 — Padronização
 - Seção 8 — Documento de Requisitos + link do repositório
- 
-**Ajustes aplicados após revisão:**
-- Remoção da capa (v1 → v2)
-- Adição do link do repositório GitHub no final do documento (v2 → v3)
- 
+  
 ---
  
 ## 🗃️ Estrutura de Arquivos Sugerida para o Repositório
